@@ -1,15 +1,15 @@
-- 👋 Hi, I’m @r0b3rtf1sh3r, 
-From New Zealand, 45 years old, been doing game development for the last 2 years on indy solo project, 
-Tried to do java at university in early 2000's (stuck to visual basic / scripts / modding) was into competetive gaming with a long comp history, 
-I always wanted to make games since i was 10, when i had my first commodore and learnt basic/turtle/logo , but was put off by its lack of "game design driven elements" or any learning institutions supporting "games" in general. 
-until i found blueprints. Blueprints changed the game for me, As a visual learner I can itterate prototypes and concepts really fast. then learn the syntax for the equivelant and kinda hack n slash my way through learning c++ in the proceess. 
-Im in awe of the open source community and epic's unreal engine suite of tools. they are truly tools for artists and developers to "unreal worlds" 
+👋 Hi, I'm @r0b3rtf1sh3r from New Zealand.
 
-- 👀 I’m interested in ...ww2,games development,comp fps,android xda testing,linux,fishing,heavy metal music, drumming among other cool things. 
-- 🌱 I’m currently learning ...UE5,linux via (nobara 42), github
-- 📫 How to reach me ... im around
+I'm 46 years old and have been focused on game development for the last two years, working on a solo indie project.
 
-<!---
-r0b3rtf1sh3r/r0b3rtf1sh3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I first experimented with programming in the early 2000s while attending university, where I tried learning Java. At the time, I gravitated more toward Visual Basic, scripting, modding, and game customization than traditional software development. Outside of programming, I spent many years involved in competitive gaming and have a long history in online gaming communities.
+
+I've wanted to make games since I was about 10 years old. My first computer was a Commodore, where I learned some very basic programming through BASIC, Turtle, and Logo. Unfortunately, at the time there weren't many learning pathways or educational institutions focused on game development, which made pursuing that dream seem out of reach.
+
+That all changed when I discovered Unreal Engine Blueprints.
+
+Blueprints completely changed the game for me. As a self-driven developer, they allow me to rapidly prototype ideas, experiment with gameplay systems, and iterate on concepts at a speed that suits the way I learn. From there, I can gradually learn the equivalent C++ implementation and reverse-engineer how everything works under the hood. It's been a practical and enjoyable way to build both programming knowledge and game development experience at the same time.
+
+I'm constantly inspired by the open-source community and by Epic's commitment to making powerful development tools accessible to creators. Unreal Engine provides an incredible toolkit for both artists and developers, enabling people to build truly unique and immersive worlds.
+
+My current focus is building a top-down sci-fi action game called NeoDeath, where I spend most of my time experimenting with gameplay systems, AI, combat, procedural mechanics, and anything else that helps bring the project to life.
